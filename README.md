@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 I'm KR13, but the damn username was already chosen. Just call me KR <br>
-I'm a 22 year old programming student from Spain aiming to work in the videogame industry some day! <br>
+I'm a 23 year old programming student from Spain aiming to work in the videogame industry some day! <br>
 
 ### Programming experience
 - Java
