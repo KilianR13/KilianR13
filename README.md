@@ -17,8 +17,8 @@ I'm a 23 year old programming student from Spain aiming to work in the videogame
 
 ### About me:
 - Pronouns: <b>He/Him</b>
-- I’m currently learning to <b>create videogames in Unreal and Godot</b> (and other engines)
-<!--- How to reach me: Check my twitter if you'd like and drop me a DM! The @ is <b>@_KR13 _</b> (remove the space!) -->
+- I’m currently learning to <b>create videogames in Godot and Unreal</b> (and other engines)
+<!--- How to reach me: Check my twitter if you'd like and drop me a DM! The @ is <b>@_KR13_</b> (remove the space!) -->
 - Fun fact: I am an excelent simracer and my life dream is becoming a race car driver. I am also fluent in both English and Spanish, and I'm currently looking for a job as a translator.
 <!--
 **KilianR13/KilianR13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
