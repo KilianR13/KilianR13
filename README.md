@@ -12,7 +12,8 @@ I'm a 23 year old programming student from Spain aiming to work in the videogame
 - XML
 - SQL
 - GDScript
-- C++
+- Python
+- TypeScript 
 <br>*(all of this is a WIP but it's fancy to put it)*
 
 ### About me:
