@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!</h1>
+<h1 align="center">About me</h1>
 
 Hey there! I'm Kilian Vidal, but just call me KR. <br>
 I'm a 24 year old Gamedev and Gameplay Programmer from Spain, specialised in working in C# and Unity.<br>
@@ -35,7 +35,7 @@ I'm a 24 year old Gamedev and Gameplay Programmer from Spain, specialised in wor
 </p>
 <br>
 
-<h2 align="center">Want to contact me?</h2>
+<h2 align="center">Want to contact me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/kilian-vidal-barranco-198291261/">
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="20%" height="20%">
