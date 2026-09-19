@@ -34,7 +34,7 @@ I'm a 24 year old Gamedev and Gameplay Programmer from Spain, specialised in wor
   </a>
 </p>
 
-
+<!--
 <h2 align="center">About me:</h2>
 <ul>
   <li>My pronouns are <b>He/Him</b></li>
